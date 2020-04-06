@@ -1,9 +1,7 @@
 {
   "name": "Demo-starter-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Aqsa umar < aksaumar35@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -43,8 +41,7 @@
   "license": "MIT",
   "main": "n/a",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "type": "https://github.com/Aqsa48/demo-gatsby-starter-blog"
   },
   "scripts": {
     "build": "gatsby build",
